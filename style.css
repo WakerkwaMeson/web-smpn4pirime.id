@@ -1,0 +1,60 @@
+body {
+background-color: rgb(21, 79, 71);
+}
+
+header img {
+    border-radius: 50px;
+    border: 3px solid rgb(33, 236, 6);
+   /* align-items: center; */
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 6px;
+   
+}
+
+nav ul {
+    display: flex;
+    text-decoration: none;
+}
+
+ul a {
+    margin: 1rem;
+    text-decoration: none;
+}
+
+ img {
+    margin: 10px;
+    padding: 10px;
+}
+
+section{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOqIGv5Q8_piMYTvhuw2DhX6s-mvlik17rw&s);
+}
+
+h3{
+    text-align: center;
+    color: antiquewhite;
+}
+
+h4 {
+    text-align: center;
+    color: aliceblue;
+}
+
+button :hover{ 
+    color: chartreuse;
+    text-align: center;
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+    color: darkblue;
+    background-color: rgb(124, 118, 118);
+    padding: 1px;
+}
